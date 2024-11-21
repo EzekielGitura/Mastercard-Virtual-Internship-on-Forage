@@ -1,6 +1,8 @@
 # Mastering Phishing Defense: Hands-On Cybersecurity Simulation with Forage
 
-![Mastercard Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/512px-Mastercard-logo.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/512px-Mastercard-logo.svg.png" alt="Mastercard Logo" width="200">
+</p>
 
 ## Overview
 
