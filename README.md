@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository showcases the work completed during a *Virtual Work Experience: Cybersecurity Job Simulation* with *Mastercard* and *Forage* in *May 2024. The focus was on **Phishing Defense*, where I designed and executed phishing email simulations, analyzed results, and provided recommendations to improve organizational security awareness.
+This repository showcases the work completed during a *Virtual Work Experience: Cybersecurity Job Simulation* with *Mastercard* and *Forage* in *May 2024*. The focus was on *Phishing Defense*, where I designed and executed phishing email simulations, analyzed results, and provided recommendations to improve organizational security awareness.
 
 ---
 
